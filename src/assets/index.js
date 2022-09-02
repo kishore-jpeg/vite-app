@@ -31,7 +31,6 @@ export {
   card,
   coinbase,
   dropbox,
-  logo,
   quotes,
   robot,
   send,
